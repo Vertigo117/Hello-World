@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MyDoubleLinkedList.cs" />
     <Compile Include="MyLinkedList.cs" />
+    <Compile Include="MyQueue.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

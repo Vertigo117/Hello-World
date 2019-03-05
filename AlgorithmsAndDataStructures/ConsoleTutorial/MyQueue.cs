@@ -6,34 +6,32 @@ using System.Threading.Tasks;
 
 namespace DataStructuresAndAlgorithms
 {
-    class Stack<T>
+    class MyQueue<T>
     {
-        
-
         MyDoubleLinkedList<T> items = new MyDoubleLinkedList<T>();
 
-        public void Push(T value)
+        public void Enqueue(T value)
         {
-            items.Add(value);
+            items.AddFirst(value);
         }
 
-        public T Pop()
+        public T Dequeue()
         {
-            if (items.Length == 0)
+            if(items.Length==0)
             {
-                throw new InvalidOperationException("The stack is empty");
+                throw new InvalidOperationException("The queue is empty");
             }
 
-            T result = items.Tail.Value;
+            T last = items.Tail.Value;
             items.RemoveLast();
-            return result;
+            return last;
         }
 
         public T Peek()
         {
-            if(items.Length==0)
+            if (items.Length == 0)
             {
-                throw new InvalidOperationException("The stack is empty");
+                throw new InvalidOperationException("The queue is empty");
             }
 
             return items.Tail.Value;
