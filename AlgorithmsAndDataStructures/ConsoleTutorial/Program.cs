@@ -21,18 +21,16 @@ namespace ConsoleTutorial
             list.Add(4);
             list.Add(5);
             list.Remove(5);
-           //foreach (var i in list)
-           // {
-           //     Console.Write("{0} ", i);
-           // }
 
-            int[] myInt = new int[] { 3, 4, 2, 1 };
-            Sort<int> sort = new Sort<int>(myInt, 1);
-            foreach (var i in myInt)
+            foreach (var i in list)
+            {
                 Console.Write("{0} ", i);
+            }
 
 
-             Console.ReadKey();
+
+
+            Console.ReadKey();
 
 
         }
