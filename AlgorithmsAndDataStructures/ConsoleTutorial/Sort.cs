@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ConsoleTutorial
+namespace DataStructuresAndAlgorithms
 {
 
     class Sort<T> where T : IComparable

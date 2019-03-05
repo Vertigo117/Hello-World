@@ -2,14 +2,9 @@
 
 
 
-namespace ConsoleTutorial
+namespace DataStructuresAndAlgorithms
 {
-    class Node<T>
-    {
-        //Элемент списка.
-        public T Value { get; set; } 
-        public Node<T> Next { get; set; } 
-    }
+    
 
     class MyLinkedList<T> : IEnumerable
     {

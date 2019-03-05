@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleTutorial
+namespace DataStructuresAndAlgorithms
 {
 
     class Program
@@ -14,20 +14,29 @@ namespace ConsoleTutorial
         static void Main(string[] args)
         {
             //Sort s = new Sort();
-            MyLinkedList<int> list = new MyLinkedList<int>();
-            list.Add(1);
-            list.Add(2);
-            list.Add(3);
-            list.Add(4);
-            list.Add(5);
-            list.Remove(5);
+            //MyLinkedList<int> list = new MyLinkedList<int>();
+            //list.Add(1);
+            //list.Add(2);
+            //list.Add(3);
+            //list.Add(4);
+            //list.Add(5);
+            //list.Remove(5);
 
-            foreach (var i in list)
-            {
-                Console.Write("{0} ", i);
-            }
+            //foreach (var i in list)
+            //{
+            //    Console.Write("{0} ", i);
+            //}
 
+            MyDoubleLinkedList<string> myDouble = new MyDoubleLinkedList<string>();
+            myDouble.Add("Привет!");
+            myDouble.Add("Как дела?");
+            myDouble.AddFirst("Ты любишь программировать?");
+            myDouble.AddLast("Давай программировать!");
+            myDouble.RemoveFirst();
+            myDouble.RemoveLast();
 
+            foreach (var i in myDouble)
+                Console.WriteLine(i);
 
 
             Console.ReadKey();
