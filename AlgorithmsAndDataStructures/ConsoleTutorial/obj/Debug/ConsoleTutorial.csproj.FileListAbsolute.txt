@@ -1,0 +1,7 @@
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\obj\Debug\ConsoleTutorial.csprojAssemblyReference.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\obj\Debug\ConsoleTutorial.csproj.CoreCompileInputs.cache
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\bin\Debug\ConsoleTutorial.exe.config
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\bin\Debug\ConsoleTutorial.exe
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\bin\Debug\ConsoleTutorial.pdb
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\obj\Debug\ConsoleTutorial.exe
+\\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\ConsoleTutorial\ConsoleTutorial\obj\Debug\ConsoleTutorial.pdb
