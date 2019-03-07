@@ -5,3 +5,10 @@
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\DataStructuresAndAlgorithms.exe
 \\msk.mts.ru\ug\User\Folders\06\00\avtimche\Desktop\INVENTORY\Training\C# developer\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\DataStructuresAndAlgorithms.pdb
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\bin\Debug\DataStructuresAndAlgorithms.exe.config
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\bin\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\bin\Debug\DataStructuresAndAlgorithms.pdb
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\AlgorithmsAndDataStructures.csprojAssemblyReference.cache
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\Тёма\Documents\GitHub\Hello-World\AlgorithmsAndDataStructures\ConsoleTutorial\obj\Debug\DataStructuresAndAlgorithms.pdb

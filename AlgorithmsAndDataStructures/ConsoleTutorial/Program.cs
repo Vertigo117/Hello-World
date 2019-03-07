@@ -27,18 +27,18 @@ namespace DataStructuresAndAlgorithms
             //    Console.Write("{0} ", i);
             //}
 
-            MyDoubleLinkedList<string> myDouble = new MyDoubleLinkedList<string>();
-            myDouble.Add("Привет!");
-            myDouble.Add("Как дела?");
-            myDouble.AddFirst("Ты любишь программировать?");
-            myDouble.AddLast("Давай программировать!");
-            myDouble.RemoveFirst();
-            myDouble.RemoveLast();
+            //MyDoubleLinkedList<string> myDouble = new MyDoubleLinkedList<string>();
+            //myDouble.Add("Привет!");
+            //myDouble.Add("Как дела?");
+            //myDouble.AddFirst("Ты любишь программировать?");
+            //myDouble.AddLast("Давай программировать!");
+            //myDouble.RemoveFirst();
+            //myDouble.RemoveLast();
 
-            foreach (var i in myDouble)
-                Console.WriteLine(i);
+            //foreach (var i in myDouble)
+            //    Console.WriteLine(i);
 
-
+            Sort sort = new Sort();
             Console.ReadKey();
 
 
