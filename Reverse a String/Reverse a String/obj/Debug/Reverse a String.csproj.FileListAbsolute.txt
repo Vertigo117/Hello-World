@@ -1,0 +1,15 @@
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.csprojAssemblyReference.cache
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\MainWindow.g.cs
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\App.g.cs
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String_MarkupCompile.cache
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String_MarkupCompile.lref
+C:\C#\Hello-World\Reverse a String\Reverse a String\bin\Debug\Reverse a String.exe.config
+C:\C#\Hello-World\Reverse a String\Reverse a String\bin\Debug\Reverse a String.exe
+C:\C#\Hello-World\Reverse a String\Reverse a String\bin\Debug\Reverse a String.pdb
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\MainWindow.baml
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.g.resources
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse_a_String.Properties.Resources.resources
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.csproj.GenerateResource.cache
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.csproj.CoreCompileInputs.cache
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.exe
+C:\C#\Hello-World\Reverse a String\Reverse a String\obj\Debug\Reverse a String.pdb
