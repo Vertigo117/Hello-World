@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Reverse_a_String"
         mc:Ignorable="d"
-        Title="MainWindow" Height="100" Width="800">
+        Title="Reverse a String" Height="100" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -13,5 +13,10 @@
         </Grid.ColumnDefinitions>
         <TextBox TextWrapping="Wrap" AcceptsReturn="True" Name="inputText" Grid.Column="0" Grid.Row="0" TextChanged="InputText_TextChanged"/>
         <TextBox TextWrapping="Wrap" AcceptsReturn="True" IsReadOnly="True" Name="revesedText" Grid.Column="1" Grid.Row="0"/>
+        <Grid.ToolTip>
+            <Grid Margin="10">
+                <TextBlock>Enter a string and the program will reverse it and print it out.</TextBlock>
+            </Grid>
+        </Grid.ToolTip>
     </Grid>
 </Window>
