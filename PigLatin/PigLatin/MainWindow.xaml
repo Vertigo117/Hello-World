@@ -1,0 +1,24 @@
+﻿<Window x:Class="PigLatin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PigLatin"
+        mc:Ignorable="d"
+        Title="Pig Latin" Height="200" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Name="inputTextBox" TextWrapping="Wrap" AcceptsReturn="True" GotKeyboardFocus="InputTextBox_GotKeyboardFocus">Enter text</TextBox>
+        <TextBox Grid.Row="0" Name="outputTextBox" Grid.Column="1" IsReadOnly="True">Pig Latin</TextBox>
+        <Button Margin="20" Name="startButton" Grid.Row="2" >Пыщ!</Button>
+        <TextBox VerticalAlignment="Center" HorizontalAlignment="Left" Name="letterTextBox" Grid.Column="1" Grid.Row="1">б</TextBox>
+    </Grid>
+</Window>

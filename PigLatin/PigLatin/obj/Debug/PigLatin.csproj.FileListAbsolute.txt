@@ -1,0 +1,15 @@
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\MainWindow.g.cs
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\App.g.cs
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin_MarkupCompile.cache
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin_MarkupCompile.lref
+C:\C#\Hello-World\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\C#\Hello-World\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\C#\Hello-World\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\MainWindow.baml
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.g.resources
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\C#\Hello-World\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
